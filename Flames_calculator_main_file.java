@@ -1,6 +1,6 @@
 import flames.*;
 import java.util.*;
-public class prgmspcl {
+public class Flames_calculator_main_file{
     static Scanner in = new Scanner(System.in);
 
     public static void main(String[] args) {
