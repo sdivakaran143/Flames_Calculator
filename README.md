@@ -2,7 +2,7 @@
 flames calculator by using java 
 
 #note :
-  this flames calculator program is is full of my own logic is there is any issues to run my code or any upgrades to run my code more efficient please Bing me through my e-mail : sdivakaran683@gmail.com
+  this flames calculator program is is full of my own logic is there is any issues on my codes or any upgrades in my code please Ping me through my e-mail: sdivakaran683@gmail.com
 
 on this flame claculator i use two classes in different files 
 
