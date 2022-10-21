@@ -50,4 +50,4 @@ the method gets result() with the two parameters character res:
   it enters into the switch case with the value or res I need to check the cases and executes the case that match with the value res
   for example the value of result is F he prints friendship and break the switch statement
   
-                                                          <end> HAPPY TO SHARE THIS THANKYOU <\end>
+                                    <end> HAPPY TO SHARE THIS THANKYOU <\end>
