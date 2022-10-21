@@ -2,7 +2,7 @@
 flames calculator by using java 
 
 #note :
-  this flames calculator program is is full of my own logic is there is any issues on my codes or any upgrades in my code please Ping me through my e-mail: sdivakaran683@gmail.com
+  this flames calculator program is is full of my own logic is there is any issues on my codes or any upgrades in my code please Ping me through my e-mail: sdivakaran683@gmail.com with the subject "GITHUB FLAMES_CALCULATOR"
 
 on this flame claculator i use two classes in different files 
 
@@ -49,3 +49,5 @@ the method gets result() with the two parameters character res:
   it defaultly prints "the relation between the first name and the second name is" for every 
   it enters into the switch case with the value or res I need to check the cases and executes the case that match with the value res
   for example the value of result is F he prints friendship and break the switch statement
+  
+                                                          <end> HAPPY TO SHARE THIS THANKYOU <\end>
